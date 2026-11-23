@@ -10,6 +10,7 @@ This package is ready to upload. It needs no build command, Python installation,
 - `saber-parent-guide.html` — English parent guide / 英文家长指南
 - `saber-parent-guide-zh.html` — Simplified Chinese parent guide / 简体中文家长指南
 - `README.md` — these instructions
+- `TEST_REPORT.md` — fixes, completed checks, and unresolved video limitations / 修复与测试说明
 
 Keep the five HTML files together at the top level of the repository. Their names are case-sensitive. Every guide includes its complete reading view.
 
@@ -78,4 +79,4 @@ Upload the newer HTML files to the same repository using the same filenames, and
 - 内嵌播放仍可能受到视频提供方限制；每个观看页面都保留外部来源链接。
 - 如果 iPhone 文件预览无法运行互动功能，完整阅读版仍可显示。互动小测、进度记录和内嵌播放请使用已发布的网页。
 
-Prepared November 20, 2026 / 更新于 2026 年 11 月 20 日。This package has not been published on your behalf / 本压缩包尚未代你发布到网站。
+Prepared November 23, 2026 / 更新于 2026 年 11 月 23 日。This package has not been published on your behalf / 本压缩包尚未代你发布到网站。
